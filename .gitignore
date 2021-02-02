@@ -19,3 +19,4 @@ FlyingDutchmanAirlines/bin/Debug/net5.0/FlyingDutchmanAirlines.runtimeconfig.jso
 FlyingDutchmanAirlines/obj/FlyingDutchmanAirlines.csproj.nuget.dgspec.json
 FlyingDutchmanAirlines/obj/project.assets.json
 FlyingDutchmanAirlines_Test/bin/Debug/net5.0/FlyingDutchmanAirlines_Test.runtimeconfig.dev.json
+FlyingDutchmanAirlines_Test/obj/Debug/net5.0/FlyingDutchmanAirlines_Test.AssemblyInfo.cs
